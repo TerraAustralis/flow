@@ -13,4 +13,3 @@ valueOn: aHandler
 			 foundOrEmpty do: [ :each | each unreferenced ] ].		
 
 		ZnResponse ok: (ZnStringEntity text: foundOrEmpty asJSONString) ]
-	

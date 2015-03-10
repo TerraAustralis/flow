@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"acceptedMethods" : "sebastiansastre 10/28/2014 17:01" },
+		"acceptedMethods" : "sebastiansastre 10/28/2014 17:01",
+		"hasValidDetailsFor:" : "jupiter 03/10/2015 16:44" },
 	"instance" : {
 		"newNotFoundFor:on:" : "sebastiansastre 10/28/2014 17:01",
 		"valueOn:" : "sebastiansastre 1/27/2015 14:56" } }
